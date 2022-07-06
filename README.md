@@ -1,16 +1,9 @@
-# loading
+# _Isloading
 
-A new Flutter project.
+# A new Flutter project.📲
 
-## Getting Started
+# Flutter learning project 📲
+![image](https://user-images.githubusercontent.com/94203956/177589643-77374809-7d31-4c9f-9cf9-7d309f08dfa9.png)
+![image](https://user-images.githubusercontent.com/94203956/177589711-975abf95-6363-46ea-a116-c68ed2dce84c.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Every time the user clicks on the button it will generate the loading animation.📲
